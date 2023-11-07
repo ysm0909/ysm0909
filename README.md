@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hello%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=88)
 
-## 🔨 More than once
+## 🔨 Use more than once
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- STACKS -->
     <p><strong>📚 STACKS</strong></p>
