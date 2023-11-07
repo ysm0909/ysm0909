@@ -6,9 +6,13 @@
     <p><strong>📚 STACKS</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">  
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">  
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">   
         <br>
-       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+       <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+        <br>
+       <img src="https://img.shields.io/badge/Matlab-E85C33?style=flat-square&logoColor=white"> 
     </div>
 </div>
 
