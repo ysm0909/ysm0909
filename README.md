@@ -12,7 +12,7 @@
         <br>
        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
         <br>
-       <img src="https://img.shields.io/badge/Matlab-FF8800?style=flat-square&logoColor=white"> 
+       <img src="https://img.shields.io/badge/MATLAB-FF8800?style=flat-square&logoColor=white"> 
     </div>
 </div>
 
